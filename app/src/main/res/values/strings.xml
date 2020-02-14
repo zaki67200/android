@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyGame</string>
+    <string name="devinez">Devinez</string>
+    <string name="score">Score :</string>
+    <string name="chiffre">0 </string>
+    <string name="ok">OK </string>
+    <string name="afficher">0</string>
+    <string name="tvScore">... </string>
+    <string name="sup">Valeur est supérieur</string>
+    <string name="inf">Valeur est inférieur</string>
+    <string name="exact">Valeur est exacte</string>
+</resources>
